@@ -1,5 +1,6 @@
 /**
- * Created by Administrator on 2016/11/17.
+ * Created by xiaqiqi on 2016/11/17.
+ * latestedit:2017/5/16
  */
 import java.util.*;
 public class ThreeColor {
